@@ -16,6 +16,11 @@ namespace ExcelUpload.Controllers
             return View();
         }
 
+        public ActionResult Tummer()
+        {
+            return View(); 
+        }
+
         //
         // GET: /Home/Details/5
 
